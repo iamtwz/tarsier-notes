@@ -147,7 +147,7 @@ make install
 
 编译安装一把梭，非常简单。
 
-![](.\neofetch.png)
+![](neofetch.png)
 
 它工作了！
 
